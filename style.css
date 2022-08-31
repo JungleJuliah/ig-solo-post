@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.screendisp {
+    background-color: white;
+    margin: auto;
+    width: 30%;
+    height: 100vh;
+}
+.header {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin: 4px;
+}
+.userinfo {
+    display: flex;
+    margin-left: 8px;
+}
+h1{
+    font-size: 12px;
+    margin:0px;
+}
+p {
+    font-size: 11px;
+    margin:0px;
+}
+.fa-brands {
+    font-size: 25px;
+}
+.fa-solid {
+    font-size: 25px;
+    margin-right: 8px;
+}
+img {
+    width:100%
+}
+.optbar {
+    display: flex;
+    justify-content: space-between;
+    margin: 4px;
+}
